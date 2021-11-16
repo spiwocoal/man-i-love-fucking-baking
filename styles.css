@@ -1,0 +1,26 @@
+body {
+    background-color: lightcyan;
+}
+
+.gifs {
+    display: flex;
+    justify-content: center;
+}
+
+#heading {
+    font-family: "Courier New", monospace;
+    text-align: center;
+    font-weight: bold;
+}
+
+#recipes-heading {
+    color: indigo;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.index-gif {
+    height: 300px;
+    width: auto;
+    margin: 10px;
+}
